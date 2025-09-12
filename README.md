@@ -11,14 +11,19 @@
 
 ## **1. Главный экран (Home page)**
 
-![Home Page](GooglePixel2XL-3.png)
+<div align="center">
+  <img src="GooglePixel2XL-3.png">
+</div>
+
 
 > [!NOTE]
 > При нажатии на главный баннер мы можем перейти на экран каталога товаров, представленных к продаже со скидкой
 
 ## **2. Каталог товаров**
 
-![Product List](GooglePixel2XL-1.png)
+<div align="center">
+  <img src="GooglePixel2XL-1.png">
+</div>
 
 > [!NOTE]
 > Каталог товаров имеет два кликабельных элемента:
@@ -27,7 +32,9 @@
 
 ## **3. Расширенная карточка товара**
 
-![Product Card](GooglePixel2XL-2.png)
+<div align="center">
+  <img src="GooglePixel2XL-2.png">
+</div>
 
 > [!NOTE]
 > При нажатии на стрелку "назад" в хэдере можно вернуться на экран с каталогом товаров
@@ -35,15 +42,30 @@
 
 ### Вид всех экранов в режиме Design
 
-![Screens 1](Pastedimage20250912141308.png)
-![Screens 2](Pastedimage20250912141204.png)
+<div align="center">
+  <img src="Pastedimage20250912141308.png">
+</div>
+<div align="center">
+  <img src="Pastedimage20250912141204.png">
+</div>
 
 ### Вид всех экранов в режиме Prototype
-![Screens 3](Pastedimage20250912141417.png)
+<div align="center">
+  <img src="Pastedimage20250912141417.png">
+</div>
 ### Вид всех экранов в режиме Present
 
-![Present 1](Pastedimage20250912142021.png)
-![Present 2](Pastedimage20250912142059.png)
-![Present 3](Pastedimage20250912142125.png)
+<div align="center">
+  <img src="Pastedimage20250912142021.png">
+</div>
+
+<div align="center">
+  <img src="Pastedimage20250912142059.png">
+</div>
+
+<div align="center">
+  <img src="Pastedimage20250912142125.png">
+</div>
+
 
 
