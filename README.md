@@ -53,6 +53,7 @@
 <div align="center">
   <img src="Pastedimage20250912141417.png">
 </div>
+
 ### Вид всех экранов в режиме Present
 
 <div align="center">
